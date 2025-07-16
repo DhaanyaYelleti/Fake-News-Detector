@@ -16,11 +16,11 @@
 
 🛠️ Tools & Techniques
     
-  Python, Jupyter Notebook
-  Pandas, NumPy, Scikit-learn
-  TfidfVectorizer for text pre-processing
-  Multinomial Naive Bayes, Passive Aggressive Classifier
-  Train/Test Split, Accuracy Score, Confusion Matrix
+  * Python, Jupyter Notebook
+  * Pandas, NumPy, Scikit-learn
+  * TfidfVectorizer for text pre-processing
+  * Multinomial Naive Bayes, Passive Aggressive Classifier
+  * Train/Test Split, Accuracy Score, Confusion Matrix
 
 ✅ Main characteristics
 
